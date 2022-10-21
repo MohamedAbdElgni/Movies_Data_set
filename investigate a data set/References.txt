@@ -1,0 +1,18 @@
+Web sites:
+1-Udacity
+2-FreeCodeCamp
+3-https://elzero.org/study/mastering-python-study-plan/
+4-https://stackoverflow.com/
+5-https://www.geeksforgeeks.org/os-module-python-examples/
+6-https://sparkbyexamples.com/
+7-https://pandas.pydata.org/
+
+
+
+Books:
+1-Pandas in Action
+
+
+
+
+
